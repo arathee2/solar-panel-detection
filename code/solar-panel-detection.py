@@ -73,10 +73,10 @@ def load_data(dir_data, dir_labels, training=True):
 
 
 # define dataset directories
-DIR_TRAIN_IMAGES = "./data/training/"
-DIR_TEST_IMAGES  = "./data/testing/"
-DIR_TRAIN_LABELS = "./data/labels_training.csv"
-DIR_TEST_IDS     = "./data/sample_submission.csv"
+DIR_TRAIN_IMAGES = "../data/training/"
+DIR_TEST_IMAGES  = "../data/testing/"
+DIR_TRAIN_LABELS = "../data/labels_training.csv"
+DIR_TEST_IDS     = "../data/sample_submission.csv"
 
 # load train and test data
 X, y = load_data(DIR_TRAIN_IMAGES, DIR_TRAIN_LABELS)
