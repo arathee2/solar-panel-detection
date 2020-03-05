@@ -1,7 +1,8 @@
 ---
 title: "Detecting Solar Panels in Aerial Imagery"
-author: "Team 3: Amandeep Rathee, Alena Kalodzitsa, Juan David Martinez Gordillo, Shota Takeshima, and Xiao Lu"
-date: "3/4/2020"
+subtitle: "By Team 3 | Duke MIDS Class of 2021"
+author: "Amandeep Rathee, Alena Kalodzitsa, Juan David Martinez Gordillo, Shota Takeshima, and Xiao Lu"
+date: "March 3, 2020"
 output: pdf_document
 ---
 
