@@ -12,4 +12,4 @@ The following ROC and PR curve demonstrates the performance of each method.
 
 ![ROC and PR curve](./report/resources/roc-pr.png)
 
-The detailed report of our findings is present in `report/report.pdf`. If you wish to run the code, clone the repository and execute the `solar-panel-detection.py` file.
+The detailed report of our findings is present in `report/report.pdf`. If you wish to run the code, clone the repository and execute the code present in `code/solar-panel-detection.py`.
